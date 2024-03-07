@@ -86,7 +86,7 @@ Join [Cyfrin Updraft](https://updraft.cyfrin.io/) for the best learning experien
 
 ### Challenge Contracts Registry
 
-- [Challenge Contracts](https://arbiscan.io/address/0xDe0e797bfAd78F0615d75430C53F8fe3C9e49883#code)
+- TBD...
 
 ## Potential Wallets 
 
@@ -118,7 +118,11 @@ An intermediate understanding of solidity. You don't need to be a pro, but you s
 ## Outcome
 * Understand the potential dangers of different wallets
 * Understand how, as a protocol/developer, you should choose a wallet 
-* Understand what you need in place after you deploy your contracts 
+* Understand what you need in place after you deploy your contracts
+
+## Recommended Testnets
+
+- [See this link in the foundry full course, and use the same testnet](https://github.com/Cyfrin/foundry-full-course-f23?tab=readme-ov-file#testnet-faucets)
 
 # Section 1: Wallet & Key Management
 
