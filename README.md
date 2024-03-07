@@ -100,6 +100,7 @@ Join [Cyfrin Updraft](https://updraft.cyfrin.io/) for the best learning experien
 
 ### Hardware
 - [Trezor](https://trezor.io/)
+- [CypherRock](https://www.cypherock.com/)
 
 ### Multi-Sig
 - [Safe](https://safe.global/)
