@@ -300,9 +300,15 @@ A: The wallet industry is constantly changing, and takes a LOT of work to assess
 
 🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠
 
+🌠 Exercises: 
+1. Write a post-mortem report on a hack or audit finding that you found interesting from [Solodit](https://solodit.xyz/).
+    a. Once you do this, you should pass the URL of your blog to the Section 2 NFT
+    b. You can use [Ciara's writeup as a template of what one should look like](https://www.cyfrin.io/blog/seneca-attack-hack-analysis-proof-of-concept)
+
 ### Section 2 NFT
 - *Coming soon...*
 
+🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
 
