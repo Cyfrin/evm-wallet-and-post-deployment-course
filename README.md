@@ -27,6 +27,7 @@ This was considered part 2 of the [security and auditing course](https://updraft
   - [Prerequisites](#prerequisites)
     - [Nice to have](#nice-to-have)
   - [Outcome](#outcome)
+  - [Recommended Testnets](#recommended-testnets)
 - [Section 1: Wallet \& Key Management](#section-1-wallet--key-management)
   - [Wallet types](#wallet-types)
     - [What to look for](#what-to-look-for)
@@ -86,7 +87,7 @@ Join [Cyfrin Updraft](https://updraft.cyfrin.io/) for the best learning experien
 
 ### Challenge Contracts Registry
 
-- TBD...
+*- Coming soon...*
 
 ## Potential Wallets 
 
@@ -141,9 +142,10 @@ A: The wallet industry is constantly changing, and takes a LOT of work to assess
     - [Where is my private key stored?](https://support.metamask.io/hc/en-us/articles/360018766351-How-to-recover-your-Secret-Recovery-Phrase)
     - [Where does metamask store my seed?](https://ethereum.stackexchange.com/questions/52658/where-does-metamask-store-the-wallet-seed-file-path) 
   - "Cold" Wallets 
-      - Lattice 
+      - Cypherrock 
       - Trezor 
     - [Hacked hardware wallet](https://www.youtube.com/watch?v=dT9y-KQbqi4)
+    - [Wallet Scrutiny Thread](https://github.com/Cyfrin/evm-wallet-and-post-deployment-course)
   - Multi-sig (Yes - Set one up) 
       - 1 of 1, or x of y 
       - Case Study: [Vulcan](https://rekt.news/vulcan-forged-rekt/) 
