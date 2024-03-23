@@ -188,7 +188,7 @@ A: The wallet industry is constantly changing, and takes a LOT of work to assess
 3. Check out [keepmesafe](https://github.com/Cyfrin/keepmesafe)
 
 ### Section 1 NFT 
-- *Coming soon* 
+- [Use your safe!](https://arbiscan.io/address/0x1C08AbbBFa26eBFb6aA014AC08803992802116D9)
 
 🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -304,11 +304,12 @@ A: The wallet industry is constantly changing, and takes a LOT of work to assess
 
 🌠 Exercises: 
 1. Write a post-mortem report on a hack or audit finding that you found interesting from [Solodit](https://solodit.xyz/).
-    a. Once you do this, you should pass the URL of your blog to the Section 2 NFT
-    b. You can use [Ciara's writeup as a template of what one should look like](https://www.cyfrin.io/blog/seneca-attack-hack-analysis-proof-of-concept)
+   1. Once you do this, you should pass the URL of your blog to the Section 2 NFT
+   2. You can use [Ciara's writeup as a template of what one should look like](https://www.cyfrin.io/blog/seneca-attack-hack-analysis-proof-of-concept)
+   3. Then, post it on Twitter, and be sure to tag [@cyfrinupdraft](https://twitter.com/CyfrinUpdraft)!
 
 ### Section 2 NFT
-- *Coming soon...*
+- [Write a hack analysis!](https://arbiscan.io/address/0xf0e1F5bf6dbE3D46DBafBD68D4376E9985D57373#code)
 
 🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠
 
@@ -389,3 +390,4 @@ Let's level up so we can keep web3 safer, and thank you again for taking this co
 [![Cyfrin YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CyfrinAudits)
 
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
+
