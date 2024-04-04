@@ -87,7 +87,11 @@ Join [Cyfrin Updraft](https://updraft.cyfrin.io/) for the best learning experien
 
 ### Challenge Contracts Registry
 
-*- Coming soon...*
+- [Challenge Contracts (Arbitrum)](https://arbiscan.io/address/0xDe0e797bfAd78F0615d75430C53F8fe3C9e49883#code)
+- [Challenge Contracts (Sepolia)](https://sepolia.etherscan.io/address/0x31801c3e09708549c1b2c9e1cfbf001399a1b9fa#code)
+- It's just numbers 9 -> 10
+  - The rest are from the [security and auditing](https://updraft.cyfrin.io/courses/security) or the [assembly and formal verification](https://updraft.cyfrin.io/courses/formal-verification) course. 
+
 
 ## Potential Wallets 
 
@@ -188,7 +192,8 @@ A: The wallet industry is constantly changing, and takes a LOT of work to assess
 3. Check out [keepmesafe](https://github.com/Cyfrin/keepmesafe)
 
 ### Section 1 NFT 
-- [Use your safe!](https://arbiscan.io/address/0x1C08AbbBFa26eBFb6aA014AC08803992802116D9)
+- [Use your safe! (Arbitrum)](https://arbiscan.io/address/0x1C08AbbBFa26eBFb6aA014AC08803992802116D9)
+- [Use your safe! (Sepolia)](https://sepolia.etherscan.io/address/0xaB67557218F60C06acA750B9F8A20018e5604ebf)
 
 🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐🔐
 <p align="right">(<a href="#table-of-contents">back to top</a>) ⬆️</p>
@@ -309,7 +314,8 @@ A: The wallet industry is constantly changing, and takes a LOT of work to assess
    3. Then, post it on Twitter, and be sure to tag [@cyfrinupdraft](https://twitter.com/CyfrinUpdraft)!
 
 ### Section 2 NFT
-- [Write a hack analysis!](https://arbiscan.io/address/0xf0e1F5bf6dbE3D46DBafBD68D4376E9985D57373#code)
+- [Write a hack analysis! (Arbitrum)](https://arbiscan.io/address/0xf0e1F5bf6dbE3D46DBafBD68D4376E9985D57373#code)
+- [Write a hack analysis! (Sepolia)](https://sepolia.etherscan.io/address/0x0b9B5Fa8D9f5dAC5d59b18230A27C36FBE670878)
 
 🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠🌠
 
