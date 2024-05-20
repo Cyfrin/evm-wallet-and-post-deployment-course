@@ -75,7 +75,7 @@ Join [Cyfrin Updraft](https://updraft.cyfrin.io/) for the best learning experien
       - Just know that it will often get things wrong, but it's very fast!
   - [Phind](https://www.phind.com/)
       - Like ChatGPT, but it searches the web
-  - [Bard](https://bard.google.com/)
+  - [Gemini](https://gemini.google.com/)
   - [Other AI extensions](https://twitter.com/aisolopreneur/status/1654823630155464704?s=42&t=-pu_sCYtfrfPJU7OXfifrQ)
 - Github Discussions 
     -   Ask questions and chat about the course here!
