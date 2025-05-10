@@ -143,7 +143,7 @@ A: The wallet industry is constantly changing, and takes a LOT of work to assess
       - Frame 
       - Rabby 
       - Rainbow 
-    - [Where is my private key stored?](https://support.metamask.io/hc/en-us/articles/360018766351-How-to-recover-your-Secret-Recovery-Phrase)
+    - [Where is my private key stored?](https://support.metamask.io/configure/wallet/how-to-recover-your-secret-recovery-phrase/)
     - [Where does metamask store my seed?](https://ethereum.stackexchange.com/questions/52658/where-does-metamask-store-the-wallet-seed-file-path) 
   - "Cold" Wallets 
       - Cypherrock 
