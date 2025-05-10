@@ -261,7 +261,7 @@ A: The wallet industry is constantly changing, and takes a LOT of work to assess
 **Do not exploit it**
 - [Responsible Disclosure](https://cheatsheetseries.owasp.org/cheatsheets/Vulnerability_Disclosure_Cheat_Sheet.html)
 - Steps:
-1. Contact the team / those resonsible / bug bounty program
+1. Contact the team / those responsible / bug bounty program
    1. Optionally, if they have a bug bounty/responsible disclosure procedure, use that 
    2. SEAL 911 (or other 911 groups) is always a good option
 2. "Close the windows and blinds"
